@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391533144994",
+    "project_id": "batboutconnect",
+    "storage_bucket": "batboutconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391533144994:android:7724725e92aab6980f20fb",
+        "android_client_info": {
+          "package_name": "b2.tn.lacnewdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391533144994-3h4e23p72lfcbg349sbjadj8sfcnfp9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwWNyZ6MPcU251YCRL3qHL2LB_hUXens"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391533144994-3h4e23p72lfcbg349sbjadj8sfcnfp9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
